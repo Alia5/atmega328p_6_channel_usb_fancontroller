@@ -1,3 +1,18 @@
+
+/* 
+* Project: 6_channel_usb_fancontroller
+* Author: Repukat
+* Copyright: (c) 2015 Peter Repukat
+* License: GNU GPL v3 (see License.txt)
+
+* V-USB Firmware:
+* Author: Christian Starkjohann
+* Copyright: (c) 2007 by OBJECTIVE DEVELOPMENT Software GmbH
+* License: GNU GPL v3 (see License.txt)
+*/
+
+
+
 #include <avr/io.h>
 
 
