@@ -19,5 +19,7 @@ Also I'd suggest to don't connect the red 5V wire from usb, connect only ground 
 you are going to use s-ata / molex anyway since you need 12V and ample amperage to power your fans!
 
 
+One giant shout out to matrixstorm and his tinyUSBboard-project ( http://matrixstorm.com/avr/tinyusbboard/ ) who helped my kickstart working with microcontrollers
+
 
 This software is licensed under the GPLv3, you can found it under "license.txt"
